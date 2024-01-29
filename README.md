@@ -1,4 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api/api?username=UnutAbi&show_icons=true)
+![Umut Ali Cigci's GitHub stats](https://github-readme-stats.vercel.app/api?username=unutabi&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnutAbi&theme=tokyonight)
 
 <!--
 **UnutAbi/UnutAbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
